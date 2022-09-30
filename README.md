@@ -41,7 +41,7 @@ Thanks to these contributors, without whom, hexo-theme-commerce won't be this pe
 
 hexo-theme-commerce **recommend you to use Hexo 5.0.0 and above**. If you already have your own [Hexo](https://hexo.io/zh-cn/) blog, I suggest you upgrade Hexo to the latest stable version.
 
-Click [here](https://) to download master branch of the last stable version of the code.After decompressing, copy the `hexo-theme-matery` folder
+Click [here](https://github.com/ginoblog/theme-commerce-down/archive/refs/heads/master.zip) to download master branch of the last stable version of the code.After decompressing, copy the `hexo-theme-matery` folder
 to your `themes` folder of your Hexo blog project.
 
 Of course, you can use `git clone` to download in your `themes` folder.
